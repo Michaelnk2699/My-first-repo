@@ -1,0 +1,12 @@
+form{
+  width: 400px;
+  background-color: gray;
+  height: 200px;
+}
+p{
+  background-color: green;
+  color: white;
+}
+signup-button{
+  background-color: green;
+}
